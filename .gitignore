@@ -1,0 +1,20 @@
+# Ignore .vscode/ settings
+.vscode/
+
+# Ignore compiled executables
+*.exe
+
+# Ignore build artifacts
+build/
+bin/
+obj/
+*.o
+
+# Ignore IDE-specific files (e.g., Visual Studio)
+*.suo
+*.user
+*.sdf
+*.opensdf
+
+# Ignore dependency directories
+dependencies/
